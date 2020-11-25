@@ -11,17 +11,17 @@
 </a>
 <br />
 
-Hi, I'm [Catherine Gitau](https://categitau.github.io/), a Data Scientist and Machine Learning Engineer 🚀 from Nairobi, Kenya. I'm currently a masters student at the [African Institute for Mathematical Sciences]() under the African masters in Machine Intelligence 🙍🏽‍ and an NLP Engineer [@Protocx](https://www.proto.cx/), Beside's working with data, I enjoy eating food and traveling.
+Hi, I'm [Catherine Gitau](https://categitau.github.io/), a Data Scientist and Machine Learning Engineer 🚀 from Nairobi, Kenya. I'm currently a masters student at the [African Institute for Mathematical Sciences](https://nexteinstein.org/) under the African masters in Machine Intelligence program 🙍🏽‍ and an NLP Engineer [@Protocx](https://www.proto.cx/). Beside's working with data, I enjoy eating food and traveling.
 
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on some amaizing stuff! <img src="https://media.giphy.com/media/WtOkaikiwaR87ZvAFH/giphy.gif" width="25px">
 - 🌱 I’m currently learning on how to become a full stack machine learning engineer
 - 👯 I’m looking to collaborate on any Natural Langauge Processing related projects
-- 📫 You can reach me [@categitau_]("https://twitter.com/categitau_")
+- 📫 You can reach me [@categitau_](https://twitter.com/categitau_)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can touch my nose with my tongue <img src="https://media.giphy.com/media/J1XmdgEVdUSPap7xkq/giphy.gif" width="25px">
- 📝[Resume](https://drive.google.com/file/d/1HJCfONopWEoxCChxl5DyQtQBiXU2jYmj/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1HJCfONopWEoxCChxl5DyQtQBiXU2jYmj/view?usp=sharing)
 
 
 **Languages and Tools**
