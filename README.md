@@ -11,7 +11,7 @@
 </a>
 <br />
 
-Hi, I'm [Catherine Gitau](https://categitau.github.io/), a Data Scientist and Machine Learning Engineer 🚀 from Nairobi, Kenya. I'm currently a masters student at the [African Institute for Mathematical Sciences](https://nexteinstein.org/) under the African masters in Machine Intelligence program 🙍🏽‍ and an NLP Engineer [@Protocx](https://www.proto.cx/). Beside's working with data, I enjoy eating food and traveling.
+I'm [Catherine Gitau](https://categitau.github.io/), a Data Scientist and Machine Learning Engineer 🚀 from Nairobi, Kenya. I'm currently a masters student at the [African Institute for Mathematical Sciences](https://nexteinstein.org/) under the African masters in Machine Intelligence program 🙍🏽‍ and an NLP Engineer [@Protocx](https://www.proto.cx/). Beside's working with data, I enjoy eating food and traveling.
 
 **Talking about Personal Stuffs:**
 
