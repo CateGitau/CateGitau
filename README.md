@@ -21,7 +21,6 @@ I'm [Catherine Gitau](https://categitau.github.io/), a Data Scientist and Machin
 - 📫 You can reach me [@categitau_](https://twitter.com/categitau_)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can touch my nose with my tongue <img src="https://media.giphy.com/media/J1XmdgEVdUSPap7xkq/giphy.gif" width="25px">
-- 📝[Resume](https://drive.google.com/file/d/1HJCfONopWEoxCChxl5DyQtQBiXU2jYmj/view?usp=sharing)
 
 
 **Languages and Tools**
