@@ -15,12 +15,12 @@ I'm [Catherine Gitau](https://categitau.github.io/), a Data Scientist and Machin
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on some amazing stuff! <img src="https://media.giphy.com/media/WtOkaikiwaR87ZvAFH/giphy.gif" width="25px">
+- 🔭 I’m currently working on some amazing stuff!
 - 🌱 I’m currently learning on how to become a full stack machine learning engineer
 - 👯 I’m looking to collaborate on any Natural Langauge Processing related projects
 - 📫 You can reach me [@categitau_](https://twitter.com/categitau_)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I can touch my nose with my tongue <img src="https://media.giphy.com/media/J1XmdgEVdUSPap7xkq/giphy.gif" width="25px">
+- ⚡ Fun fact: I can touch my nose with my tongue.
 
 
 **Languages and Tools**
