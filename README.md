@@ -11,7 +11,7 @@
 </a>
 <br />
 
-I'm [Catherine Gitau](https://categitau.github.io/), a Data Scientist and Machine Learning Engineer 🚀 from Nairobi, Kenya. I'm a masters student graduate from the [African Institute for Mathematical Sciences](https://nexteinstein.org/) under the African masters in Machine Intelligence program currently working as Manager, Data Science at [Visa](https://www.visa.co.ke/). Beside's working with data, I enjoy eating food and traveling.
+I'm [Catherine Gitau](https://categitau.github.io/), a Data Scientist and Machine Learning Engineer/Researcher 🚀 from Nairobi, Kenya. Masters graduate from the [African Institute for Mathematical Sciences](https://nexteinstein.org/) under the African masters in Machine Intelligence program currently working as Manager, Data Science at [Visa](https://www.visa.co.ke/). Beside's working with data, I enjoy eating food and traveling.
 
 **Talking about Personal Stuffs:**
 
@@ -19,8 +19,6 @@ I'm [Catherine Gitau](https://categitau.github.io/), a Data Scientist and Machin
 - 🌱 I’m currently learning on how to become a full stack machine learning engineer
 - 👯 I’m looking to collaborate on any Natural Langauge Processing related projects
 - 📫 You can reach me [@categitau_](https://twitter.com/categitau_)
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I can touch my nose with my tongue.
 
 
 **Languages and Tools**
